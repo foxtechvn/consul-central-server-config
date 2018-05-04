@@ -1,9 +1,9 @@
 configserver:
-    name: Docker Consul Service
-    status: Connected to Consul Server running in Docker
+    name: ECAS Consul Service
+    status: Connected to ECAS Consul Server
 
 jhipster:
     security:
         authentication:
             jwt:
-                secret: my-secret-token-to-change-in-production
+                secret: 6bb16f64aed0feeff00ae875de5ef338
